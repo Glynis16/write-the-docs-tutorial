@@ -16,4 +16,4 @@ Add an issue for investigation.
 **This is bold**
 *and this is italic*
 
-[This is the URL] (www.gmail.com)
+(This is the URL) [http://www.gmail.com]
